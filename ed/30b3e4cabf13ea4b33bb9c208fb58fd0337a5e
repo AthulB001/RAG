@@ -1,0 +1,57 @@
+configs/generation-claude.yaml
+  s_d11f031b9d0611::t_6cb0138cec62c8 1,41,47
+  s_d11f031b9d0611::t_6597a0d30701b5 42,48
+src/rag/generation/llm_clients.py
+  s_d11f031b9d0611::t_3f7292e699f748 269
+  s_d11f031b9d0611::t_53a961c2f66fbf 10,174-183,185-190,194-207,209-210,225-238,241-242,244-245,262-268
+  s_d11f031b9d0611::t_6597a0d30701b5 36
+  s_d11f031b9d0611::t_76d288a673e200 184,191-193,208
+  s_d11f031b9d0611::t_0b1f5dbae5a492 211-219,221-224,243,246-261
+  s_d11f031b9d0611::t_0a9f56fcd902da 104,107-112,117,125,239-240
+  s_d11f031b9d0611::t_dee28fbbb7b7c1 220
+  s_d11f031b9d0611::t_e1c7237e6105d0 113
+.env.example
+  s_d11f031b9d0611::t_90d10d71a46838 6-7
+tests/generation/test_llm_clients.py
+  s_d11f031b9d0611::t_6597a0d30701b5 45,58,69
+docs/adr/0005-llm-providers.md
+  s_d11f031b9d0611::t_2fdce227a6e7ef 17-18
+  s_d11f031b9d0611::t_143b4352b42ca4 12-13,21,23,37
+tests/generation/test_factory.py
+  s_d11f031b9d0611::t_6597a0d30701b5 10
+docs/hld/010-grounded-generation.md
+  s_d11f031b9d0611::t_b2d33b7342c18a 34-35
+  s_d11f031b9d0611::t_90d10d71a46838 33,36-37,69,76-77
+  s_d11f031b9d0611::t_2fdce227a6e7ef 70,78
+experiments/LOG.md
+  s_d11f031b9d0611::t_b2d33b7342c18a 10
+  s_d11f031b9d0611::t_555cdb4f1503d6 11
+src/rag/generation/factory.py
+  s_d11f031b9d0611::t_6cb0138cec62c8 9,27-31,33
+  s_d11f031b9d0611::t_76d288a673e200 32
+  s_d11f031b9d0611::t_3f7292e699f748 34
+src/rag/config/settings.py
+  s_d11f031b9d0611::t_ea41297aeda34d 168,199-201
+  s_d11f031b9d0611::t_e1c7237e6105d0 192
+  s_d11f031b9d0611::t_6597a0d30701b5 190
+README.md
+  s_d11f031b9d0611::t_90d10d71a46838 53
+scripts/evaluate_generation.py
+  s_d11f031b9d0611::t_6cb0138cec62c8 71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ed30b3e4cabf13ea4b33bb9c208fb58fd0337a5e",
+  "prompts": {},
+  "sessions": {
+    "s_d11f031b9d0611": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ef35-d1b8-7791-a4ba-a763100bd5ba",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "ATHUL-B <athuljyothirling@gmail.com>"
+    }
+  }
+}
