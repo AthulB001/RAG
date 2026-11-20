@@ -1,0 +1,35 @@
+src/rag/config/settings.py
+  s_d11f031b9d0611::t_6df7375b8401d7 302-303
+src/rag/generation/factory.py
+  s_d11f031b9d0611::t_6df7375b8401d7 41
+tests/generation/test_factory.py
+  s_d11f031b9d0611::t_6df7375b8401d7 51-65
+src/rag/generation/llm_clients.py
+  s_d11f031b9d0611::t_6df7375b8401d7 267,279,295-296
+  s_d11f031b9d0611::t_4bf4287833e2d5 329-335
+tests/generation/test_llm_clients.py
+  s_d11f031b9d0611::t_6df7375b8401d7 210-215
+  s_d11f031b9d0611::t_d3b0b30148c6fd 216-231
+experiments/analysis/2026-11-20-bifrost-gateway-smoke.md
+  s_d11f031b9d0611::t_4ce496c79ae9ea 1-2,6-65
+  s_d11f031b9d0611::t_ed88c5073ce526 3-5
+docs/runbooks/gateway-generation-run.md
+  s_d11f031b9d0611::t_6df7375b8401d7 64
+  s_d11f031b9d0611::t_d3b0b30148c6fd 62-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "9e537a03c9707096944412ee300d7638929f05b4",
+  "prompts": {},
+  "sessions": {
+    "s_d11f031b9d0611": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ef35-d1b8-7791-a4ba-a763100bd5ba",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "ATHUL-B <athuljyothirling@gmail.com>"
+    }
+  }
+}
