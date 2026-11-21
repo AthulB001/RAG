@@ -1,0 +1,19 @@
+experiments/analysis/2026-11-20-bifrost-gateway-smoke.md
+  s_d11f031b9d0611::t_1b8ef0a0d878c2 97-133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ca85e9df199178fde60ed920d8aa99f5aae8bbfb",
+  "prompts": {},
+  "sessions": {
+    "s_d11f031b9d0611": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ef35-d1b8-7791-a4ba-a763100bd5ba",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "ATHUL-B <athuljyothirling@gmail.com>"
+    }
+  }
+}
