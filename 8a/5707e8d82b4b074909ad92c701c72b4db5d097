@@ -1,0 +1,19 @@
+experiments/analysis/2026-11-21-bifrost-sonnet-full-run.md
+  s_d11f031b9d0611::t_7783a235058822 1-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "8a5707e8d82b4b074909ad92c701c72b4db5d097",
+  "prompts": {},
+  "sessions": {
+    "s_d11f031b9d0611": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ef35-d1b8-7791-a4ba-a763100bd5ba",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "ATHUL-B <athuljyothirling@gmail.com>"
+    }
+  }
+}
